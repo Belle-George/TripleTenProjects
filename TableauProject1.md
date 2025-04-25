@@ -35,4 +35,4 @@ Images:
 Access: 
 To access the information, utilize google sheets on chrome browser.
 
-https://public.tableau.com/app/profile/belle.george/viz/TableauSprintProject_17411552652260/Profit?publish=yes
+(https://docs.google.com/spreadsheets/d/1W9gfT8hIRsnP9PVvCvkoAFkpUeZi0AxZLFoykeSzANw/edit?gid=69691848#gid=69691848)
