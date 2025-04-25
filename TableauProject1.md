@@ -27,7 +27,7 @@ Bedroom count is favored in the following order: 1 , 2, 0 (Studio), 3, 4, 5, 6, 
 The following neighborhoods are the highest earning neighborhoods, in order of highest to lowest: Harlem, Hell's Kitchen, Midtown, Lower East Side, Upper West Side, East Village, Upper East Side, East Harlem, Chelsea, West Village. This information can be found in the Sum of Revenue per Top NBHb tab and Top 10 NBH per Revenue tab.
 
 
-Images: https://github.com/Belle-George/TripleTenProjects/issues/1#issue-3018844904
+Images: <img width="681" alt="Image" src="https://github.com/user-attachments/assets/72fe1e99-30e5-4836-bd54-dc6e86c95197" />
 
 
 
