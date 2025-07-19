@@ -1,0 +1,45 @@
+
+
+Business Analytics Project, Review of Profit & Loss
+
+
+Overview: 
+Review of profit and loss margins for Superstore, to determine how the company can avoid bankruptcy, including advertising analysis and review of returns. 
+
+
+Analysis:
+This project provided data analysis to answer the following questions:
+Profit & Loss:
+In reviewing the paired dimensions of subcategory & region, or shipping mode & product ID, where are the two greatest profits and two greatest losses? 
+Which products should the superstore stop selling? 
+Which three product subcategories should the store focus on and which three should be discontinued?
+ Advertising:
+What are the 3 best combinations of state and month to advertise in? 
+Based on a spending ratio of 1/5 of profit, what should be spent on these advertisements? 
+Returned Items: 
+Which products have the highest return rate? 
+Which customers have the highest return rate?
+
+
+Features: 
+The first three tabs, labeled Profit, Advertising, and Returns, review the dashboards that answer the questions related to those respective areas.  The following tabs are the individual charts that create the first three dashboards. 
+
+
+ Findings: 
+Profit & Loss:
+The Central Region has profit loss in binders, appliances, and furnishings.  All other regions profit in those categories, as well as copiers, phones, accessories, paper, chairs, storage, envelopes, art, and labels. Machines are only profitable in the East. Profit and loss vary in supplies, bookcases, and tables by region. 
+Top and bottom products per shipping method were easily identified and can be viewed in the images below. 
+Removing the bottom three products raises overall profit from 286,397 to 313,921.
+Removing the bottom three categories raises profit from 286,397 to 308,787.
+ Advertising:
+The top three states of profit are California, New York, and Washington. 
+To raise the highest of the below average sales: California should focus on the months of March, April, and May.  Washington should focus on May, July, and October. New York should focus on March, May, and June. Specific budget numbers can be found in the images below. 
+Returned Items: 
+California is the state with the most returns. Specific customers and products can be reviewed in the visuals below.
+
+Access: 
+To access the information, utilize google sheets on chrome browser.
+
+Link: 
+To review the project, click Link: https://public.tableau.com/app/profile/belle.george/viz/TableauSprintProject_17411552652260/Profit?publish=yes
+
