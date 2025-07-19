@@ -47,5 +47,6 @@ Access:
 To access the information, utilize google sheets on chrome browser.
 
 Link: 
-To review the project, click Link: https://public.tableau.com/app/profile/belle.george/viz/TableauSprintProject_17411552652260/Profit?publish=yes
-
+To review the project, click Links: https://public.tableau.com/app/profile/belle.george/viz/TableauSprintProject_17411552652260/Profit?publish=yes
+https://public.tableau.com/app/profile/belle.george/viz/ProfitLoss_17529658871640/Advertising?publish=yes
+https://public.tableau.com/app/profile/belle.george/viz/PLReturns/Returns?publish=yes
