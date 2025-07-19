@@ -39,6 +39,9 @@ California is the state with the most returns. Specific customers and products c
 
 Images: <img width="1869" height="1999" alt="Image" src="https://github.com/user-attachments/assets/9ff963fe-0352-471e-b08f-75067ba1b0c6" />
 
+<img width="1799" height="2299" alt="Image" src="https://github.com/user-attachments/assets/85367bf7-1718-4d20-bf8d-349b8bc2aed0" />
+
+<img width="1799" height="1999" alt="Image" src="https://github.com/user-attachments/assets/77a601b0-b9fa-4ca7-a16f-a9f0a2fa7b07" />
 
 Access: 
 To access the information, utilize google sheets on chrome browser.
