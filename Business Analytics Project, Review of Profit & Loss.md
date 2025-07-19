@@ -37,7 +37,7 @@ To raise the highest of the below average sales: California should focus on the 
 Returned Items: 
 California is the state with the most returns. Specific customers and products can be reviewed in the visuals below.
 
-Images: 
+Images: <img width="1869" height="1999" alt="Image" src="https://github.com/user-attachments/assets/9ff963fe-0352-471e-b08f-75067ba1b0c6" />
 
 
 Access: 
