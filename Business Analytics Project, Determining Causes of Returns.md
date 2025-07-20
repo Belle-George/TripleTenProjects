@@ -24,15 +24,25 @@ Each tab allows viewers to review relevant information in a simple, functional f
 
 
  Findings: 
-Overall, the returns increase at a significantly lower incline than sales. Some subcategories, such as supplies, envelopes, and accessories present very close in total numbers. 
+Overall, the returns increase at a significantly lower incline than sales. Some subcategories, such as supplies, envelopes, and accessories present very close in total numbers.
+
 Return rates vary for subcategories. Machines have the highest return rate at 35% and envelopes have the lowest at 17%.
+
 Although return rates are high on all subcategories, three specifically also sh ow impact on profit: tables, supplies, and bookcases. Superstore should consider alleviating products that are most costly in those categories. 
+
 In reviewing the costly categories, it was noted that many items were costly without being returned.  Superstore should investigate the cause of these costs.  
-With an extensive number of return customers, analysis focused on costly return customers. Data revealed strong outliers: Luke Foster: $22,452 in binders, Stefania Perrino: $3,091 in phones, Tanja Norvell: $4,072 in tables and Laurel Beltran: $3,753 in machines. Machines and tables showed the most frequent returns among costly customers. Superstore should consider connecting with outlier customers for feedback.
+
+With an extensive number of return customers, analysis focused on costly return customers. 
+Data revealed strong outliers: Luke Foster: $22,452 in binders, Stefania Perrino: $3,091 in phones, Tanja Norvell: $4,072 in tables and Laurel Beltran: $3,753 in machines. Machines and tables showed the most frequent returns among costly customers. Superstore should consider connecting with outlier customers for feedback.
+
 Machines also have numerous returns among costly returning customers.  It should be considered in the elimination of products and investigated more thoroughly with tables, supplies, and bookcases. 
+
 Returns are strongest in the West, followed by the East and South. Utah, California, and Oregon are the leaders of returns in the West. The South only has two states of high return, Tennessee and Mississippi. 
+
 The most costly western states, Utah, California, and Oregon were reviewed for products of high return with negative profit. Superstore should consider removing the following products above. Note: Stefania Perrino's phone return is the second item above.
+
 Return Rate is significantly higher with Same Day shipping. Other shipping modes are close in total return rate. Superstore should consider eliminating same day shipping, particularly in the Western region. 
+
 The season with the highest overall return rate is late summer/ early fall.
 Winter shows a heavier return rate than spring and early summer. Note: December’s return rate is higher than October.
 
