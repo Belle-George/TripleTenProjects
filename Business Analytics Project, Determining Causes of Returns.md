@@ -41,6 +41,30 @@ Returned products of negative profit for August, September, October, and Decembe
 
 Images: <img width="1642" height="647" alt="Image" src="https://github.com/user-attachments/assets/98f135b3-8c14-4991-ae2c-0379e15f2ae2" />
 
+<img width="1649" height="656" alt="Image" src="https://github.com/user-attachments/assets/0774b289-3b11-4d6c-89a4-7a7bfb73d620" />
+
+<img width="1662" height="624" alt="Image" src="https://github.com/user-attachments/assets/ece77859-3e17-49ce-9e93-2bab4f1fe382" />
+
+<img width="1646" height="634" alt="Image" src="https://github.com/user-attachments/assets/04e77b7f-bd03-4869-ba0f-aeb26b2d2981" />
+
+<img width="1661" height="414" alt="Image" src="https://github.com/user-attachments/assets/b9ecdfc0-8f17-4371-85a5-c185afc4d94d" />
+
+<img width="1651" height="648" alt="Image" src="https://github.com/user-attachments/assets/7c61e2f0-4242-4cc2-9de5-59af68f4d486" />
+
+<img width="1656" height="646" alt="Image" src="https://github.com/user-attachments/assets/95828216-a50b-46d2-a8a1-7061463d61c7" />
+
+<img width="1654" height="558" alt="Image" src="https://github.com/user-attachments/assets/20d2677d-f6c2-4ecd-91da-9be808521b12" />
+
+<img width="1618" height="616" alt="Image" src="https://github.com/user-attachments/assets/2821a249-f098-45a8-8785-191a996e139c" />
+
+<img width="1640" height="584" alt="Image" src="https://github.com/user-attachments/assets/fbff4788-73d0-4b5c-9eb2-aaae4588749a" />
+
+<img width="1637" height="646" alt="Image" src="https://github.com/user-attachments/assets/d286dcb9-6bdb-4405-90e7-c8d2c6ea9f7e" />
+
+<img width="1665" height="665" alt="Image" src="https://github.com/user-attachments/assets/5ad50040-f063-4a60-af2b-0b1452d43759" />
+
+<img width="1648" height="617" alt="Image" src="https://github.com/user-attachments/assets/1bfd38c2-ef6a-4a34-9006-50acd853e35e" />
+
 
 Access: 
 To access the information, utilize google sheets on chrome browser.
