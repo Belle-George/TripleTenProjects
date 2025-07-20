@@ -20,16 +20,8 @@ Each tab allows viewers to review relevant information in a simple, functional f
 - Bedroom count is favored in the following order: 1 , 2, 0 (Studio), 3, 4, 5, 6, 8, 7.  The top 10 neighborhoods all prefer 1 bedroom, except Hell's Kitchen, which prefers 2 bedrooms, and Midtown, which prefers a studio. Details can be found in the Number of Reviews Per Bedroom tab, Reviews per Bedroom per NBH tab, and Reviews per Bd per Top 10 NBH tab.
 - The following neighborhoods are the highest earning neighborhoods, in order of highest to lowest: Harlem, Hell's Kitchen, Midtown, Lower East Side, Upper West Side, East Village, Upper East Side, East Harlem, Chelsea, West Village. This information can be found in the Sum of Revenue per Top NBHb tab and Top 10 NBH per Revenue tab.
 
-
-
-
-
-
-
-
 ## Images
-
-![App Screenshot](https://github.com/Belle-George/TripleTenProjects/issues/5#issue-3246767130)
+https://github.com/Belle-George/TripleTenProjects/issues/5#issue-3246767130
 
 ## Prerequisites 
 To access the information, utilize google sheets on chrome browser.
