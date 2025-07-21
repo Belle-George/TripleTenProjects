@@ -1,52 +1,31 @@
-Business Analytics Project, Cuisines of Bangalore
+# Exploratory Analysis
+## Tableau Final Project, Cuisines of Bangalore
 
-Overview: 
+## Overview: 
 Exploratory data analysis of the top cuisine types with a reflection on reviews, revenue, and demographics to provide recommendations for advertising.  
 
+## Analysis:
+- This project provided data analysis to answer the following questions:
+- What are the top 10 rated cuisine choices of Bangalore? 
+- What are the top 10 revenues of cuisine choices of Bangalore? 
+- What crossover occurs between the top ratings and top revenue? 
+- What demographics respond best to the crossover between ratings and revenue? 
 
-Analysis:
-This project provided data analysis to answer the following questions:
-What are the top 10 rated cuisine choices of Bangalore? 
-What are the top 10 revenues of cuisine choices of Bangalore? 
-What crossover occurs between the top ratings and top revenue? 
-What demographics respond best to the crossover between ratings and revenue? 
-
-
-Features: 
+## Features: 
 Each tab allows viewers to review relevant information in a simple, functional form to assess and review pertinent data accordingly. 
 
-
- Findings: 
-Top results in rating and revenue include three categories: Indian/Chinese, Sweets, Other
-The other category includes: Healthy Food/Keto, Mexican/American, and Costal/Seafood
-Ice Cream, Desserts appears in both Top 10 groups.
-
-Sweets are 6 of the Top 10 Ratings, but only 3 of the Top 10 Revenue Cuisines.  
+## Findings: 
+- Top results in rating and revenue include three categories: Indian/Chinese, Sweets, Other
+- The other category includes: Healthy Food/Keto, Mexican/American, and Costal/Seafood
+- Ice Cream, Desserts appears in both Top 10 groups.
+- Sweets are 6 of the Top 10 Ratings, but only 3 of the Top 10 Revenue Cuisines.  
 
 The remaining analysis focused specifically on the sweets identified in the Top 10 Ratings and Top 10 Revenue.
+- Preliminary analysis of sweet cuisines revealed that male students without income respond most to the surveys of these cuisine types. 
+- Correcting for those with income revealed the following demographics for advertising: Age: 20-29, Gender: Male, Occupation: Employee, Income: $25,001 - $50,000, Education: Graduate, Family Size: 3
+- Marital Status has a 49/51 split between married and single and was not considered a significant statistic.
 
-Preliminary analysis of sweet cuisines revealed that male students without income respond most to the surveys of these cuisine types. 
-
-Correcting for those with income revealed the following demographics for advertising: 
-
-Age: 20-29
-
-Gender: Male
-
-Occupation: Employee
-
-Income: $25,001 - $50,000
-
-Education: Graduate
-
-Family Size: 3
-
-Marital Status has a 49/51 split between married and single and was not considered a significant statistic.
-
-
-
-
-Images:
+## Images:
 <img width="1040" height="817" alt="Image" src="https://github.com/user-attachments/assets/3cd41778-5b6d-4678-a025-60827ad498eb" />
 
 <img width="981" height="835" alt="Image" src="https://github.com/user-attachments/assets/0376a608-f83c-4f52-9376-4c0ac16b3f25" />
@@ -67,11 +46,7 @@ Images:
 
 <img width="901" height="829" alt="Image" src="https://github.com/user-attachments/assets/6f8d28b1-628d-44cc-abb5-525e30c9779d" />
 
-<img width="852" height="506" alt="Image" src="https://github.com/user-attachments/assets/a03a8726-4f42-4918-b0ba-9b8ae882d146" />
-
-Access: 
+## Access: 
 To access the information, utilize google sheets on chrome browser.
 
-
-Link: 
-To review the project, click link: https://public.tableau.com/app/profile/belle.george/viz/FinalProject_17515898141060/Presentation?publish=yes
+Click [here](https://public.tableau.com/app/profile/belle.george/viz/FinalProject_17515898141060/Presentation?publish=yes) to access document directly. 
