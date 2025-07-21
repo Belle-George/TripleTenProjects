@@ -47,6 +47,8 @@ The remaining analysis focused specifically on the sweets identified in the Top 
 <img width="482" height="402" alt="Image" src="https://github.com/user-attachments/assets/97750c29-3bea-45f6-88eb-fe6f81a599b6" />
 
 ## Access: 
-To access the information, utilize google sheets on chrome browser.
+To access the information, click link below to view in chrome browser.
 
-Click [here](https://public.tableau.com/app/profile/belle.george/viz/FinalProject_17515898141060/Presentation?publish=yes) to access document directly. 
+Note: Tableau Public may take a few migutes to load. If the dashboard does not appear, try refreshing the page.
+
+Click [here](https://public.tableau.com/app/profile/belle.george/viz/FinalProject_17515898141060/Presentation?publish=yes) to access Tableau Public directly.
