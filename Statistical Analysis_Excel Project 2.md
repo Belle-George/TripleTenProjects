@@ -1,6 +1,6 @@
 
 # Statistical Analysis:  
-## Conversion Metrics and Retention Rates Excel Sheet
+## Conversion Metrics and Retention Rates in Excel
 
 Review of website usage data to determine conversion metrics between viewing the site, adding items to cart, and purchasing of products. 
 
